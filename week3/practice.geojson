@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9821,
+                    14.6042
+                ]
+            },
+            "properties": {
+                "name": "Manila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.892,
+                    10.3157
+                ]
+            },
+            "properties": {
+                "name": "Cebu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.9817,
+                    18.7881
+                ]
+            },
+            "properties": {
+                "name": "Chiang Mai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5018,
+                    13.7563
+                ]
+            },
+            "properties": {
+                "name": "Bangkok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2719,
+                    25.2048
+                ]
+            },
+            "properties": {
+                "name":"Dubai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49636,
+                    41.90278
+                ]
+            },
+            "properties": {
+                "name":"Rome"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  [
+                    12.45339,
+                    41.90328
+                ]
+            },
+            "properties": {
+                "name":"Vatican City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  [
+                    12.315515, 
+                    45.440847
+                ]
+            },
+            "properties": {
+                "name":"Venice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7485,
+                    44.3518
+                ]
+            },
+            "properties": {
+                "name":"Lindsay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":  [
+                    43.6532,
+                    -79.3832
+                ]
+            },
+            "properties": {
+                "name":"Toronto"
+            }
+        }
+    ]
+}
